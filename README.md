@@ -12,4 +12,7 @@
   },
   
 ```
-  
+
+### 4. Save the file and relaunch the VSCodium.
+### 5. You should be able to see marketplace extensions such as "Salesforce Extension Pack"
+### 6. Done.
