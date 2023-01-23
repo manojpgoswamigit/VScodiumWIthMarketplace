@@ -16,3 +16,20 @@
 ### 4. Save the file and relaunch the VSCodium.
 ### 5. You should be able to see marketplace extensions such as "Salesforce Extension Pack"
 ### 6. Done.
+
+## If still doesnt work then :
+### 1. Press F1 or command pallet(ctrl+shift+p)
+### 2. Preferences: Open User Settings
+### 3. search "proxy"
+### 4. edit using "Edit in settings.json" link.
+### 5. remove lines containing "proxy" properties
+### 6. save.
+### 7. relaunch VSCodium.
+
+## If still doesnt work then :
+### 1. Press F1 or command pallet(ctrl+shift+p)
+### 2. Preferences: Open User Settings
+### 3. search "proxy" 
+### 4. set "Http: Proxy Support" dropdown value to "fallback"
+### 5. save.
+### 6. relaunch the VSCodium
