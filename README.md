@@ -1,5 +1,8 @@
 # Instructions
 
+![image](https://user-images.githubusercontent.com/108041815/214176542-4dfccb52-c913-4364-88a9-f58ba2a06841.png)
+
+
 #### 1. Go to C:\Program Files\VSCodium\resources\app
 #### 2. Open product.json in text editor
 #### 3. replace the extensionsGallery section with below snippet.
